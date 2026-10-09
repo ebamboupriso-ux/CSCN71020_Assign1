@@ -45,6 +45,4 @@ void add() {
 	result = num1 + num2;
 	printf("%lf + %lf = %lf\n", num1, num2, result);
 }
-void subtract() {
-	printf("Wrong function");
-}
+
